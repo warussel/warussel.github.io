@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[DnD Generator](https://github.com/warussel/PC-generator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+This web application uses python/flask to collect data from a RESTful API and generate a useable character sheet for fifth edition DnD
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

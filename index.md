@@ -9,22 +9,24 @@
 This web application uses python/flask to collect data from a RESTful API and generate a useable character sheet for fifth edition DnD
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Computer Forensics](/sample_page.md)
+<img src="images/detective.png?raw=true"/>
+My final project for the course Intro to Computer Security required me to conduct a forensics investigation using cybersecurity principals and penetration testing techniques
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fission Simulator](/sample_page.md)
+<img src="images/nucleus.png?raw=true"/>
+As a summer research assistant, I was placed on a team tasked with developing a command line C++ program simulating nuclear fission. We applied concepts such as multithreading to develop our program
 
 ---
 
-### Category Name 2
+### Skills
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- **Languages:** C/C++, Python, Golang
+- **Web:** HTML, CSS, Javascript, Jquery, Bootstrap, Flask
+- **Tools:** Xcode, VS-Code, git, terminal
+
+[Resume](pdf/Russell_William_Resume.pdf)
 
 ---
 

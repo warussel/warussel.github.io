@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: William Russell # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am an undergraduate studying Computer Science in Engineering at the University of Michigan 
   <br><br>
-  Second description 
+  Check out my work on my github or follow me on LinkedIn
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/warussel">View My Github Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

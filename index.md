@@ -5,8 +5,9 @@
 ### Projects 
 
 [DnD Generator](https://github.com/warussel/PC-generator)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DnD_Screenshot.png?raw=true"/>
 This web application uses python/flask to collect data from a RESTful API and generate a useable character sheet for fifth edition DnD
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

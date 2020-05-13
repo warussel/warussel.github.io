@@ -9,8 +9,8 @@
 This web application uses python/flask to collect data from a RESTful API and generate a useable character sheet for fifth edition DnD
 
 ---
-[Computer Forensics](/sample_page.md)
-<img src="images/detective.png?raw=true"/>
+[Computer Forensics](/forensics.md)
+<img src="images/magnifying-glass.png?raw=true"/>
 My final project for the course Intro to Computer Security required me to conduct a forensics investigation using cybersecurity principals and penetration testing techniques
 
 ---

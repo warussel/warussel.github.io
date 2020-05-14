@@ -14,7 +14,7 @@ This web application uses python/flask to collect data from a RESTful API and ge
 My final project for the course Intro to Computer Security required me to conduct a forensics investigation using cybersecurity principals and penetration testing techniques
 
 ---
-[Fission Simulator](/sample_page.md)
+[Fission Simulator](/fission.md)
 <img src="images/nucleus.png?raw=true"/>
 As a summer research assistant, I was placed on a team tasked with developing a command line C++ program simulating nuclear fission. We applied concepts such as multithreading to develop our program
 

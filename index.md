@@ -43,8 +43,8 @@ As a summer research assistant, I was placed on a team tasked with developing a 
 
 ### Contact
 
-**Email**       warussel@umich.edu
-**Cell**        (269) 268-1238
+- **Email**       warussel@umich.edu
+- **Cell**        (269) 268-1238
 
 [Resume](pdf/Russell_William_Resume.pdf)
 

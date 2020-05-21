@@ -8,6 +8,7 @@
 - Git
 - C
 - Assembly
+
 **Computer Architecture**
 - Linker/Loader
 - Compiler
